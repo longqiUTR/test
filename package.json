@@ -13,6 +13,7 @@
     "bootstrap": "^3.4.1",
     "express": "^4.16.4",
     "express-art-template": "^1.0.1",
+    "modules": "^0.4.0",
     "mongoose": "^5.4.19"
   },
   "repository": {
@@ -23,5 +24,6 @@
     "url": "https://github.com/longqiUTR/curd/issues"
   },
   "homepage": "https://github.com/longqiUTR/curd#readme",
-  "description": ""
+  "description": "使用：",
+  "devDependencies": {}
 }
